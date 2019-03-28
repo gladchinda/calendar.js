@@ -59,3 +59,8 @@ typings/
 
 # next.js build output
 .next
+
+# package lock files
+yarn.lock
+package-lock.json
+npm-shrinkwrap.json
